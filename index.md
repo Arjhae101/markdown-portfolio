@@ -12,3 +12,13 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+{% include 04-lists.md %}
+ - eating
+ - sleeping
+ - eating again
+
+<br>
+
+{% include 05-emphasis.md %}
